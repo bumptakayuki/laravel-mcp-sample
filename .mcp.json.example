@@ -1,0 +1,11 @@
+"mcpServers": {
+  "ats-demo": {
+    "command": "/opt/homebrew/bin/php",
+    "args": [
+      "/Users/takayuki_suzuki/workspace/laravel-mcp-sample/artisan",
+      "mcp:start",
+      "ats-demo"
+    ],
+    "cwd": "/Users/takayuki_suzuki/workspace/laravel-mcp-sample"
+  }
+}
