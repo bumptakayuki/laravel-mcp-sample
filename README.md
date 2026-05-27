@@ -120,8 +120,4 @@ Service の Unit テスト（検索・件数・パイプライン・下書き・
 - レート制限  
 - MCP Resources / Prompts の追加  
 - 本番運用向けの監査ログ強化  
-# laravel-mcp-sample
-# laravel-mcp-sample
-# laravel-mcp-sample
-# laravel-mcp-sample
-# laravel-mcp-sample
+
